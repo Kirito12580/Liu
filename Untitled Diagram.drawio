@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="2015" dy="946" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3603" dy="1510" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,6 +76,82 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VO531dHjWUVzXmGTuJKX-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="u0KdexLZ_XR5zZTz2mG9-1" source="VO531dHjWUVzXmGTuJKX-7" target="VO531dHjWUVzXmGTuJKX-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="981.989822546973" y="1100.7113564668773" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-206" y="2282" width="1375" height="1463" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;关键科学问题：&lt;span style=&quot;color: rgb(51, 51, 51); letter-spacing: 0pt; text-align: justify; text-indent: 2em;&quot;&gt;如何通过多模态情感分析及数字孪生技术，并通过对话式交互诊断方法生成精准的精神健康诊断建议，实现多文化，跨族群的心理疾病早期精准筛查&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;？&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;text-align: start;&quot; data-hash=&quot;b935e11d9d1dda486e0670e52072802b&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="186.29827766179537" width="934.9034446764091" height="223.83438485804416" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;关键技术问题：基于&lt;b style=&quot;&quot;&gt;构建跨文化多模态数据库，&lt;/b&gt;&lt;b style=&quot;&quot;&gt;设计高效的多模态融合算法，开发实时对话生成和反馈机制的精神健康诊断系统&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="183.5686325678497" y="295.3690851735016" width="940.3627348643005" height="209.98895899053628" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;研究内容二：（中国团队）&lt;/b&gt;多模态数据标注及处理&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="268.8700417536534" y="643.8123028391166" width="232.01983298538616" height="299.98422712933746" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;研究内容三：（中国团队）&lt;/b&gt;多模态数据对齐及模型训练&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="537.7400835073068" y="643.8123028391166" width="232.01983298538616" height="299.98422712933746" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;研究内容四：（中国团队）&lt;/b&gt;人机交互式诊断&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="806.6101252609602" y="646.1198738170347" width="232.01983298538616" height="299.98422712933746" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-7" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;研究内容一：&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;（马来西亚团队）&lt;/b&gt;跨文化多模态数据库构建&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial; text-wrap-mode: nowrap; color: rgba(0, 0, 0, 0);&quot;&gt;）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;align=center;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="-66" y="646.12" width="298.02" height="299.98" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-8" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;研究内容五：&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;（马来西亚团队）&lt;/b&gt;系统集成及临床验证&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;align=center;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="1075.48" y="641.5" width="293.52" height="299.98" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;验证系统有效性&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="380.78549060542787" y="1206.8596214511042" width="545.9290187891442" height="92.30283911671924" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 36px;&quot;&gt;临床验证&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#EBEBEB;shape=mxgraph.archimate3.application;appType=generic;archiType=square;" vertex="1" parent="KRm5PiTLWUSKZBlzJpTe-1">
+          <mxGeometry x="380.78549060542787" y="1370.697160883281" width="545.9290187891442" height="92.30283911671924" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-2" target="KRm5PiTLWUSKZBlzJpTe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-3" target="KRm5PiTLWUSKZBlzJpTe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-3" target="KRm5PiTLWUSKZBlzJpTe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-3" target="KRm5PiTLWUSKZBlzJpTe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-3" target="KRm5PiTLWUSKZBlzJpTe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-3" target="KRm5PiTLWUSKZBlzJpTe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-9" target="KRm5PiTLWUSKZBlzJpTe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-4" target="KRm5PiTLWUSKZBlzJpTe-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482.464770354906" y="1100.7113564668773" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-5" target="KRm5PiTLWUSKZBlzJpTe-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="648.973121085595" y="1100.7113564668773" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-6" target="KRm5PiTLWUSKZBlzJpTe-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="815.4814718162842" y="1100.7113564668773" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-7" target="KRm5PiTLWUSKZBlzJpTe-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315.9564196242171" y="1100.7113564668773" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRm5PiTLWUSKZBlzJpTe-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KRm5PiTLWUSKZBlzJpTe-1" source="KRm5PiTLWUSKZBlzJpTe-8" target="KRm5PiTLWUSKZBlzJpTe-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="981.989822546973" y="1100.7113564668773" as="sourcePoint" />
           </mxGeometry>
