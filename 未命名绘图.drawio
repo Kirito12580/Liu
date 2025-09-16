@@ -79,7 +79,7 @@
         <mxCell id="8DVu6u98NFebpymilXGG-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="640" y="240" width="330" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="ms_wc8pi5Gnqf6l3Z3Y6-23" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Path UPDATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="8DVu6u98NFebpymilXGG-12" vertex="1">
+        <mxCell id="ms_wc8pi5Gnqf6l3Z3Y6-23" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;PATH UPDATE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="8DVu6u98NFebpymilXGG-12" vertex="1">
           <mxGeometry width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ms_wc8pi5Gnqf6l3Z3Y6-28" value="&lt;span style=&quot;font-family: &amp;quot;Comic Sans MS&amp;quot;;&quot;&gt;Generating 16 New Candidate Paths&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="8DVu6u98NFebpymilXGG-12" vertex="1">
